@@ -1,0 +1,24 @@
+# AGF Project Requirements
+# This is a Node.js/Next.js app. Install with: npm install
+# Prerequisites: Node.js >= 18.x, npm >= 9.x
+
+# Runtime dependencies (from package.json)
+next@latest
+react@latest
+react-dom@latest
+bcryptjs@^2.4.3
+leaflet@^1.9.4
+react-leaflet@^5.0.0
+mysql2@^3.6.5
+pg@^8.11.3
+sqlite3@^5.1.6
+
+# Dev dependencies (TypeScript, types, linting)
+typescript@latest
+@types/node@latest
+@types/react@latest
+@types/react-dom@latest
+@types/bcryptjs@^2.4.6
+@types/leaflet@^1.9.21
+eslint@latest
+eslint-config-next@latest
